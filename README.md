@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 [My portfolio site](https://www.joshuaperry.com)
+Adding a change to file from VSC
 <!--
 **josh-perry-design/josh-perry-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
